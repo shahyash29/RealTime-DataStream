@@ -61,6 +61,3 @@ Before you begin, ensure you have the following installed:
     docker exec -it postgres-container psql -U postgres -d mydatabase
     ```
 
-## Acknowledgments
-
-This project is intended for educational purposes to demonstrate the integration of Apache Flink, Kafka, and PostgreSQL for real-time data processing.
