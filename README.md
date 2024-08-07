@@ -1,4 +1,4 @@
-# Flink-Kafka-Postgres Data Pipeline
+# RealTime DataStream  Flink-Kafka-Postgres Data Pipeline
 
 This project demonstrates a real-time data processing pipeline using Apache Flink, Apache Kafka, and PostgreSQL. The pipeline reads weather data from Kafka, processes it with Flink, and stores the results in a PostgreSQL database.
 
